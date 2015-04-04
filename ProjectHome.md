@@ -1,0 +1,1 @@
+Cineworld's official Android app just doesn't cut it, the aim is the create a better one.
